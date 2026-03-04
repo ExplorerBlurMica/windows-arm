@@ -1,8 +1,8 @@
 {
-  "name": "Windows 11 Pro",
+  "name": "Windows 11 26H1",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "11"
+    "VERSION": "11 26H1"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
